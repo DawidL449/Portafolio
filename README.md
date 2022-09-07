@@ -2,6 +2,12 @@
 
 <!--
 **Yo123s/Yo123s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Stats📈
+<p align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yo123s&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="Yo123s" /> 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Yo123s&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="Yo123s" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Yo123s&theme=highcontrast&hide_border=true" alt="Yo123s" />
+</p>
 
 Here are some ideas to get you started:
 
