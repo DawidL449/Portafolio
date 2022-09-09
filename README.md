@@ -1,5 +1,4 @@
 ### Hi there 👋
-**Yo123s/Yo123s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ## Stats📈
 <p align="center">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yo123s&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="Yo123s" /> 
