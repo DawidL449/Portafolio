@@ -1,4 +1,9 @@
-### Hi there 👋
+Desarrollador web Full Stack, con conocimientos en base de datos MSQL, Javascript, HTML, CSS y frameworks como Vue.js, Bootstrap y Tailwind. Llevando a cabo, las metodologías ágiles: Kanban y Scrum y, las buenas prácticas en el desarrollo de software: SOLID, TDD, OOP y patrones de diseño.
+
+📫 Contacto:
+
+andreacevallosmendoza@gmail.com
+Linkedin
 ## Stats📈
 <p align="center">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yo123s&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="Yo123s" /> 
