@@ -1,3 +1,5 @@
+FULLSTACK DEVELOPER
+
 Desarrollador web Full Stack, con conocimientos en base de datos MSQL, Javascript, HTML, CSS y frameworks como React, Bootstrap y Angular. Llevando a cabo, las metodologías ágiles: Kanban y Scrum y, las buenas prácticas en el desarrollo de software: SOLID, TDD, OOP y patrones de diseño.
 ## Stats📈
 <p align="center">
